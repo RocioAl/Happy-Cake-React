@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Happy-Cake-React/build/static/css/main.44f8b8b5.css",
+    "main.js": "//Happy-Cake-React/build/static/js/main.b5f0cab3.js",
+    "index.html": "//Happy-Cake-React/build/index.html",
+    "main.44f8b8b5.css.map": "//Happy-Cake-React/build/static/css/main.44f8b8b5.css.map",
+    "main.b5f0cab3.js.map": "//Happy-Cake-React/build/static/js/main.b5f0cab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.b5f0cab3.js"
+  ]
+}
